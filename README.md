@@ -1,3 +1,7 @@
+about:blank
+
+===
+
 """
 CHROMIUM_EXECUTABLE_PATH, CHROMIUM_USERDATA_PATH 환경변수는 아래와 같이 설정되어 있어요.
 
@@ -609,3 +613,5 @@ screenshots/screenshot_Profile_39_20241228_143052.png
 ```
 
 이 코드는 macOS 환경에서 시스템에 설치된 Chrome의 특정 프로필을 사용하여 웹페이지 스크린샷을 촬영하는 완전한 솔루션입니다.
+
+
